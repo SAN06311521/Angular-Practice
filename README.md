@@ -1,2 +1,2 @@
 # Angular-Practice
-Practice Assignments
+Practice Assignments (AngularJS)
